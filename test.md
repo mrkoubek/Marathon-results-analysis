@@ -1,3 +1,0 @@
-# pythontry
-
-# new testtstst
